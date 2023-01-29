@@ -1,0 +1,232 @@
+h1{
+  text-align: center;
+}
+a{
+  color: black;
+}
+hr{
+  border-top-style:dotted;
+  border-width: thick;
+  width:80%;
+  color:#6B03F0;
+}
+/* toppic */
+.top{
+  background-color: #CFBCF2;
+  height: 150px;
+}
+.toppic{
+  height:100px;
+  width:100px;
+  border-radius: 80%;
+  margin-top: 25px;
+  margin-left:250px;
+  display: inline-block;
+}
+.toplink{
+  color: black;
+  font-family: 'Itim', cursive;
+  display:inline-box;
+  margin: 50px 0px 50px 400px;
+}
+.toplink2{
+  color: black;
+  font-family: 'Itim', cursive;
+  display:inline-box;
+}
+/* Introduction */
+.intro{
+  height: 550px;
+  background-color: #CFBCF2;
+  margin-top: 0px;
+}
+.intro-me{
+  font-size: 1.5em;
+  font-family: 'Pacifico', cursive;
+  display: inline-block;
+  margin: 50px 0px 0px 500px;
+}
+.intro-text{
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Nanum Pen Script', cursive;
+  display: inline-block;
+  margin: 0px 0px 0px 400px;
+}
+.intro-abouttext{
+  font-size: 1em;
+  text-align: center;
+  font-family: 'Handlee', cursive;
+  display: inline-block;
+  margin:auto 50px auto 50px;
+}
+/* Personal Details */
+.PD{
+  height: 800px;
+  background-color: #EEDFF3;
+  margin:auto 150px auto 150px;
+}
+.PD-text{
+  font-family: 'Caveat Brush', cursive;
+  padding-top:5px;
+  margin: 70px 0px 0px 0px;
+}
+.PD-circle{
+  display: inline-block;
+  background-color: #F0CAC4;
+  height: 600px;
+  width: 600px;
+  border-radius:50%;
+  margin:100px 0px 0px 300px;
+}
+.PD-detail{
+  display: inline-block;
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left: 70px;
+  top: 30px;
+}
+.PD-img{
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  margin:0px 0px 200px 0px;
+  border-radius: 30%;
+}
+/* Work Experiences */
+.WE{
+  height: 1000px;
+  background-color: #EEDFF3;
+  margin:auto 150px auto 150px;
+}
+.WE-text{
+  font-family: 'Caveat Brush', cursive;
+  padding-top:5px;
+  margin: 70px 0px 0px 0px;
+}
+.WE-circle{
+  display: inline-block;
+  background-color: #EFF0C4;
+  height: 800px;
+  width: 800px;
+  border-radius:50%;
+  margin:100px 0px 0px 80px;
+}
+.WE-detail{
+  display: inline-block;
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left: 80px;
+  bottom: 80px;
+}
+.WE-img{
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  margin:0px 0px 50px 600px;
+  border-radius: 30%;
+}
+/* langueges Skills */
+.LS{
+  height: 700px;
+  background-color: #EEDFF3;
+  margin:auto 150px auto 150px;
+}
+.LS-text{
+  font-family: 'Caveat Brush', cursive;
+  padding-top:5px;
+  margin: 70px 0px 0px 0px;
+}
+.LS-circle{
+  display: inline-block;
+  background-color: #F0C4D7;
+  height: 550px;
+  width: 550px;
+  border-radius:50%;
+  margin:75px 0px 0px 330px;
+}
+.LS-detail{
+  display: inline-block;
+  font-family: 'Handlee', cursive;
+  position: relative;
+  bottom: 180px;
+  right: 65px;
+}
+.LS-img{
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  margin:250px 50px 0px 0px;
+  border-radius: 30%;
+}
+/* Educations */
+.E{
+  height: 1000px;
+  background-color: #EEDFF3;
+  margin:auto 150px auto 150px;
+}
+.E-text{
+  font-family: 'Caveat Brush', cursive;
+  padding-top:5px;
+  margin: 70px 0px 0px 0px;
+}
+.E-circle{
+  display: inline-block;
+  background-color: #F0D5C4;
+  height: 600px;
+  width: 600px;
+  border-radius:50%;
+  margin:150px 0px 0px 150px;
+}
+.E-detail{
+  display: inline-block;
+  font-family: 'Handlee', cursive;
+  position: relative;
+  left: 100px;
+  bottom: 380px;
+}
+.E-img{
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  margin:280px 0px 0px 400px;
+  border-radius: 30%;
+}
+/* Contact Me */
+.CM{
+  height: 300px;
+  background-color: #EEDFF3;
+  margin:auto 150px auto 150px;
+}
+.CM-text{
+  text-align: center;
+  font-family: 'Nanum Pen Script', cursive;
+  font-size: 2em;
+  padding-top: 50px;
+  margin-top: 0px;
+}
+.CM-button {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 20px;
+  background: #9360EC;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin:0px 0px 0px 400px;
+}
+.CM-button:hover {
+  background: #7700ff;
+  text-decoration: none;
+}
+/* Bottom  */
+.bottom{
+  background-color: #CFBCF2;
+  height: 150px;
+}
+.sm{
+  text-align: center;
+  padding-top: 50px;
+}
